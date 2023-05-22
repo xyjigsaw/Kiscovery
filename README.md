@@ -59,7 +59,7 @@ In mid-2023, our DeepReport system underwent a major update, encompassing both d
 | **Total**             | 5,342,566 | 206,462 | 2,591,591    | 1,362,922 | 2,941,942            |
 
 
-[Download from Huggingface](https://huggingface.co/datasets/Reacubeth/Co-occurrenceCitationQuintuple)
+[Download from Huggingface](https://huggingface.co/datasets/Reacubeth/Quintuple)
 
 Download with git
 ```bash
