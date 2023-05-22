@@ -32,6 +32,9 @@ We construct and release a dataset of co-occurrence citation quintuples, which i
 
 ![Co-occurrence Citation Quintuple](Quintuple.png)
 
+<img src="https://github.com/xyjigsaw/Kiscovery/raw/master/Quintuple.png" alt="Co-occurrence Citation Quintuple" width="600" align="bottom" />
+
+
 In mid-2023, our DeepReport system underwent a major update, encompassing both data and model improvements. On the data front, we introduced a new version of the quintuple data (V202306), resulting in enhanced quality and a larger-scale dataset. The statistical summary of the new quintuple data (V202306) is presented as follows:
 
 | Discipline            | Quintuple | Concept | Concept Pair | Total $p$ | Total $p_1$ \& $p_2$ |
@@ -57,7 +60,6 @@ In mid-2023, our DeepReport system underwent a major update, encompassing both d
 | Chemistry             | 565,307   | 13,858  | 231,062      | 108,637   | 286,593              |
 | **Total**             | 5,342,566 | 206,462 | 2,591,591    | 1,362,922 | 2,941,942            |
 
-Table: Statistics of Quintuples V202306 [^table:quintuples202306]
 
 [Download from Huggingface](https://huggingface.co/datasets/Reacubeth/Co-occurrenceCitationQuintuple)
 
