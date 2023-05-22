@@ -30,9 +30,7 @@ git clone https://huggingface.co/datasets/Reacubeth/ConceptGraph
 
 We construct and release a dataset of co-occurrence citation quintuples, which is used to train text generation model for idea verbalization. The process of identifying and processing concepts is similar to constructing the concept co-occurrence graph. Heuristic rules are adopted to filter redundant and noisy sentences, further improving the quality of the quintuples used for idea generation. More details of co-occurrence citation quintuples can be found in Appendix B, C, and J.
 
-![Co-occurrence Citation Quintuple](Quintuple.png)
-
-<img src="https://github.com/xyjigsaw/Kiscovery/raw/master/Quintuple.png" alt="Co-occurrence Citation Quintuple" width="600" align="bottom" />
+<img src="https://github.com/xyjigsaw/Kiscovery/raw/master/Quintuple.png" alt="Co-occurrence Citation Quintuple" width="500" align="bottom" />
 
 
 In mid-2023, our DeepReport system underwent a major update, encompassing both data and model improvements. On the data front, we introduced a new version of the quintuple data (V202306), resulting in enhanced quality and a larger-scale dataset. The statistical summary of the new quintuple data (V202306) is presented as follows:
