@@ -3,7 +3,7 @@ Exploring and Verbalizing Academic Ideas by Concept Co-occurrence
 
 This is the official repository for the paper "Exploring and Verbalizing Academic Ideas by Concept Co-occurrence" by Yi Xu, Shuqian Sheng, Bo Xue, Luoyi Fu, Xinbing Wang, and Chenghu Zhou. The paper proposes a framework based on concept co-occurrence for academic idea inspiration, which has been integrated into a research assistant system DeepReport. The system can assist researchers in expediting the process of discovering new ideas.
 
-DeepReport can be accessed at [It is expected to be released in mid-2023](https://github.com/xyjigsaw/Kiscovery).
+DeepReport can be accessed at [idea.acemap.cn](https://idea.acemap.cn/).
 
 ## Statistics
 
