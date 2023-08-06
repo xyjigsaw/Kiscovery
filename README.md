@@ -5,6 +5,8 @@ This is the official repository for the paper "Exploring and Verbalizing Academi
 
 DeepReport can be accessed at [idea.acemap.cn](https://idea.acemap.cn/).
 
+[DeepReport Manual](./DeepReportManual.V.202308.pdf)
+
 ## Statistics
 
 The evolving concept co-occurrence graph and co-occurrence citation quintuple datasets used in this study are available for download in [Huggingface](https://huggingface.co/Reacubeth).
